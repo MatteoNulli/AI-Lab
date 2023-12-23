@@ -6,4 +6,6 @@ Project was developed in collaboration with other fellow students and supervised
 
 
 - Implemented_functions has all the necessary functions to use in other files
-- 
+- SmartSeq_MCF7 and SmartSeq_HCC1806
+- DropSeq
+
